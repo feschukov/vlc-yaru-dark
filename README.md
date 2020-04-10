@@ -9,8 +9,8 @@ Most of the icons are reused from [VLC-Arc-Dark](https://github.com/varlesh/VLC-
 
 ## Install
 * Download the file [YaruDark.vlt](https://gitlab.com/NovaQC/vlc-yaru-dark/-/raw/master/YaruDark.vlt?inline=false)
-* Open VLC and go to preference > Interface > Choose Skin. Select the YaruDark.vlt file
-* VLC needs to be restarted to change to skins mode. 
+* Open VLC and go to preference > Interface > Choose Skin. Select YaruDark.vlt
+* Restart VLC.
 
 ## License
 GPL 3
