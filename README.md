@@ -4,6 +4,8 @@ A VLC media player Skin for Ubuntu 20.04 with [Yaru theme](https://github.com/ub
 
 Most of the icons are reused from [VLC-Arc-Dark](https://github.com/varlesh/VLC-Arc-Dark)
 
+The skin also works on Ubuntu 18.04. The skin was tested on VLC 3.0.8
+
 ![Dark](VLC_capture1.png)
 ![DarkPlaylist](VLC_capture2.png)
 
@@ -18,5 +20,5 @@ GPL 3
 ## How to contribute
 * [Download VLC media player Skin Editor](https://www.videolan.org/vlc/skineditor.html)
 * Open YaruSkin.xml
-* Make sure to have the Skin.dtdt in the same folder
+* Make sure to have the Skin.dtd in the same folder
 
