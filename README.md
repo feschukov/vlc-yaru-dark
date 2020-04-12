@@ -16,11 +16,19 @@ The skin was tested on :
 * Open VLC and go to preference > Interface > Choose Skin. Select YaruDark.vlt
 * Restart VLC.
 
-## License
-GPL 3
+## Approach of the project and next steps:
+I Involve [/r/Ubuntu](https://www.reddit.com/r/Ubuntu/) reddit community at each step of the design.
 
-## How to contribute
+Based on my post of [April 10th](https://www.reddit.com/r/Ubuntu/comments/fyk9uj/my_vlc_yaru_dark_skin_is_ready_to_download_link/), here are the main features I will try to adf for the next release:
+* Make the skin resizable (with a maximize button)
+* Add a Volume button
+* Add more function on the fullscreen
+* Package the skin in .deb to push the update more easily
+
+### How to contribute
 * [Download VLC media player Skin Editor](https://www.videolan.org/vlc/skineditor.html)
 * Open YaruSkin.xml
 * Make sure to have the Skin.dtd in the same folder
 
+### License
+GPL 3
