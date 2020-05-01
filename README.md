@@ -4,9 +4,11 @@ A VLC media player Skin for Ubuntu 20.04 with [Yaru theme](https://github.com/ub
 
 There are 3 differents variant of the skin:
 
-* **VLC Yaru Dark (Official)**
-* *VLC Yaru Dark with the maximise button - Ubuntu 18.04 style (experimental)*
-* *VLC Yaru Dark with the maximise button - Ubuntu 20.04 style (experimental)*
+* **[VLC Yaru Dark (Official)](https://gitlab.com/NovaQC/vlc-yaru-dark/-/blob/master/YaruDark.vlt)**
+* *[VLC Yaru Dark with the maximise button - Ubuntu 18.04 style (experimental)](https://gitlab.com/NovaQC/vlc-yaru-dark/-/blob/master/YaruDarkMax_18-04.vlt)*
+* *[VLC Yaru Dark with the maximise button - Ubuntu 20.04 style (experimental)](https://gitlab.com/NovaQC/vlc-yaru-dark/-/blob/master/YaruDarkMax_20-04.vlt)*
+
+Current version: **2.0 (2020/05/01)**
 
 ![Dark](VLC_capture1.png)
 ![Fonctionnalités](VLC_video.gif)
