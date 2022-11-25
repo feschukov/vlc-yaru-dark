@@ -1,6 +1,6 @@
 # VLC Yaru Dark
 
-A VLC media player Skin for Ubuntu 20.04 with [Yaru theme](https://github.com/ubuntu/yaru). The skin is based on [GNOME-style client-side decorations (CSD) initiative](https://wiki.gnome.org/Initiatives/CSD).
+A VLC media player Skin with [Yaru theme](https://github.com/ubuntu/yaru). The skin is based on [GNOME-style client-side decorations (CSD) initiative](https://wiki.gnome.org/Initiatives/CSD).
 
 There are 3 differents variant of the skin:
 
@@ -16,8 +16,8 @@ Current version: **2.0 (2020/05/01)**
 
 The skin was tested on : 
 
-* VLC 3.0.8
-* Ubuntu 18.04 and Ubuntu 20.04
+* VLC 3.0
+* Ubuntu 22.04 / Arch Linux
 * resolution of 1920 X 1080
 
 
@@ -27,9 +27,9 @@ The skin was tested on :
 * Restart VLC.
 
 ## Approach of the project and next steps:
-I Involve [/r/Ubuntu](https://www.reddit.com/r/Ubuntu/) reddit community at each step of the design.
+NovaQC Involve [/r/Ubuntu](https://www.reddit.com/r/Ubuntu/) reddit community at each step of the design.
 
-Based on my post of [April 10th](https://www.reddit.com/r/Ubuntu/comments/fyk9uj/my_vlc_yaru_dark_skin_is_ready_to_download_link/), here are the main features I will try to add for the next release:
+Based on NovaQC's post of [April 10th](https://www.reddit.com/r/Ubuntu/comments/fyk9uj/my_vlc_yaru_dark_skin_is_ready_to_download_link/), here are the main features NovaQC will try to add for the next release:
 
 - [x] Make the skin resizable (with a maximize button);
 - [x] Add Volume button and slider;
@@ -45,4 +45,4 @@ Based on my post of [April 10th](https://www.reddit.com/r/Ubuntu/comments/fyk9uj
 GPL 3
 
 ### Attribution
-Most of the icons are reused from [VLC-Arc-Dark](https://github.com/varlesh/VLC-Arc-Dark) and [VLC Deep Dark](https://addons.videolan.org/p/1008199/).
+This project is fork [VLC-Yaru-Dark](https://gitlab.com/NovaQC/vlc-yaru-dark). Most of the icons are reused from [VLC-Arc-Dark](https://github.com/varlesh/VLC-Arc-Dark) and [VLC Deep Dark](https://addons.videolan.org/p/1008199/).
